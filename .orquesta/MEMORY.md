@@ -42,10 +42,13 @@ Sitio web estático de Café Aurora creado y listo para revisión en la rama `qa
 - **Rama de trabajo**: `qa/cafe-aurora`
 - **Target**: `main`
 - **Repositorio**: `Guillermo-forcast/QA-Test-Orquesta`
+- **PR #1**: https://github.com/Guillermo-forcast/QA-Test-Orquesta/pull/1
+- **Commit principal**: `336f70c` — `feat: add Café Aurora static website`
 
 ## Historial de cambios
 | Fecha | Acción |
 |---|---|
 | 2025-11-12 | Creación inicial de index.html, styles.css, app.js |
 | 2025-11-12 | Verificación de accesibilidad y fallback CSS para prefers-color-scheme |
-| 2025-11-12 | Apertura de PR hacia main desde qa/cafe-aurora |
+| 2025-11-12 | Apertura de PR #1 hacia main desde qa/cafe-aurora |
+| 2025-11-12 | Actualización de .orquesta/MEMORY.md con resumen completo del proyecto |

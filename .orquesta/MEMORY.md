@@ -52,3 +52,4 @@ Sitio web estático de Café Aurora creado y listo para revisión en la rama `qa
 | 2025-11-12 | Verificación de accesibilidad y fallback CSS para prefers-color-scheme |
 | 2025-11-12 | Apertura de PR #1 hacia main desde qa/cafe-aurora |
 | 2025-11-12 | Actualización de .orquesta/MEMORY.md con resumen completo del proyecto |
+| 2026-11-13 | README.md: agregada línea "Estado del proyecto: En pruebas de QA con Orquesta." — commit `525271c` |
